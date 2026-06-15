@@ -11,6 +11,6 @@ OS Mini Simulator- Java Project
 **Date:** June 15, 2026  
 
 ## How to Run
-  java -jar Project.jar
-Compiled for: Java 8 (1.8)
-
+  Download the Zip
+  Extract is 
+  Open or double the Project.jar
