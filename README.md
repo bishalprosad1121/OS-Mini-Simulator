@@ -11,7 +11,6 @@ OS Mini Simulator- Java Project
 **Date:** June 15, 2026  
 
 ## How to Run
-1. Clone the repo
-2. Open in IntelliJ/Eclipse
-3. Run `Main.java`
+  java -jar Project.jar
+Compiled for: Java 8 (1.8)
 
