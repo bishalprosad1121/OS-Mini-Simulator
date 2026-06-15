@@ -11,6 +11,6 @@ OS Mini Simulator- Java Project
 **Date:** June 15, 2026  
 
 ## How to Run
-  Download the Zip
-  Extract is 
-  Open or double the Project.jar
+1: Download the Zip
+2: Extract is 
+3: Open or double the Project.jar
