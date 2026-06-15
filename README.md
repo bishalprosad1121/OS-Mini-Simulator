@@ -11,6 +11,8 @@ OS Mini Simulator- Java Project
 **Date:** June 15, 2026  
 
 ## How to Run
-1: Download the Zip
-2: Extract is 
-3: Open or double the Project.jar
+1: Click green code button 
+2: Download the Zip
+3: Extract it
+4: Inside OS-Mini-Simulator folder there is src = source code and Project.jar
+5: Open or double the Project.jar
